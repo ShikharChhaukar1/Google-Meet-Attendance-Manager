@@ -8,7 +8,7 @@ npm install
 npm start
 
 ## contributors
- Shashank Negi |
+ Shikhar Chhaukar |
  Simarpreet Singh |
  Siddhartha 
  
